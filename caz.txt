@@ -1,2 +1,3 @@
 testtext
+Hello hello
 Second line added by Michael under the 'michael branch'
